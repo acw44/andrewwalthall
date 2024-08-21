@@ -5,10 +5,10 @@ andrew.walthall@me.com
 
 ## Projects
 ### Midnight Wave
-Text goes here.
+Kickstarter, Action Combat Demo
 
-### Full Sail: Runway
-Text goes here.
+### Monster Eater
+Full Sail Runway
 
 ### Sunlit
 Text goes here.
