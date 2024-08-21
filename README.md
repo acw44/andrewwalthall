@@ -4,13 +4,16 @@
 andrew.walthall@me.com 
 
 ## Projects
-### Key Project 1
+### Midnight Wave
 Text goes here.
 
-### Key Project 2
+### Full Sail: Runway
 Text goes here.
 
-### Key Project 3
+### Sunlit
+Text goes here.
+
+### Up To Speed
 Text goes here.
 
 #### Skills: 
@@ -28,9 +31,6 @@ Text goes here.
 - HUD Design
 - Level Design
 - Programming
-
-## Prototypes
-Type here.
 
 ## About Me
 Type here.
