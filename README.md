@@ -1,5 +1,5 @@
 # Andrew Walthall
-## Game Designer
+# Game Designer
 (850) 529-9701 
 andrew.walthall@me.com 
 
@@ -13,11 +13,9 @@ Full Sail Runway
 ![Monster Eater Demo](docs/assets/images/monster_eater_demo.png)
 
 ### Sunlit
-Text goes here.
 ![Sunlit Demo](docs/assets/images/sunlit_demo.gif)
 
 ### Up To Speed
-Text goes here.
 ![Up To Speed Demo](docs/assets/images/up_to_speed_demo.gif)
 
 #### Skills: 
@@ -35,6 +33,3 @@ Text goes here.
 - HUD Design
 - Level Design
 - Programming
-
-## About Me
-Type here.
