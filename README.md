@@ -7,6 +7,7 @@ andrew.walthall@me.com
 ## Projects
 ### Midnight Wave
 Kickstarter, Action Combat Demo
+
 ![Midnight Wave Demo](docs/assets/images/midnight_wave_demo.gif)
 
 [Midnight Wave Kickstarter](https://www.kickstarter.com/projects/andrewwalthall/midnight-wave-cyberpunk-samurai-tactical-platform?ref=user_menu)
