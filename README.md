@@ -8,30 +8,30 @@ andrew.walthall@me.com
 ### Midnight Wave
 Kickstarter, Action Combat Demo
 
-![Midnight Wave Demo](docs/assets/images/midnight_wave_demo.gif) ( <br> )
+![Midnight Wave Demo](docs/assets/images/midnight_wave_demo.gif)  return
 
-[Midnight Wave Kickstarter](https://www.kickstarter.com/projects/andrewwalthall/midnight-wave-cyberpunk-samurai-tactical-platform?ref=user_menu) ( <br> )
+[Midnight Wave Kickstarter](https://www.kickstarter.com/projects/andrewwalthall/midnight-wave-cyberpunk-samurai-tactical-platform?ref=user_menu)  return
 
-[Midnight Wave Character Creator](https://andrew-double-u.itch.io/midnight-wave-character-creator) ( <br> )
+[Midnight Wave Character Creator](https://andrew-double-u.itch.io/midnight-wave-character-creator)  return
 
-Create a button that links to a project breakdown. ( <br> )
+Create a button that links to a project breakdown.
 
 ### Monster Eater
 Full Sail Runway
 
-![Monster Eater Demo](docs/assets/images/monster_eater_demo.png)
+![Monster Eater Demo](docs/assets/images/monster_eater_demo.png)  return
 
 Create a button that links to a project breakdown.
 
 ### Sunlit
 
-![Sunlit Demo](docs/assets/images/sunlit_demo.gif)
+![Sunlit Demo](docs/assets/images/sunlit_demo.gif)  return
 
 Create a button that links to a project breakdown.
 
 ### Up To Speed
 
-![Up To Speed Demo](docs/assets/images/up_to_speed_demo.gif)
+![Up To Speed Demo](docs/assets/images/up_to_speed_demo.gif)  return
 
 Create a button that links to a project breakdown.
 
