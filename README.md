@@ -6,15 +6,19 @@ andrew.walthall@me.com
 ## Projects
 ### Midnight Wave
 Kickstarter, Action Combat Demo
+![Midnight Wave Demo](docs/assets/images/midnight_wave_demo.gif)
 
 ### Monster Eater
 Full Sail Runway
+![Monster Eater Demo](docs/assets/images/monster_eater_demo.png)
 
 ### Sunlit
 Text goes here.
+![Sunlit Demo](docs/assets/images/sunlit_demo.gif)
 
 ### Up To Speed
 Text goes here.
+![Up To Speed Demo](docs/assets/images/up_to_speed_demo.gif)
 
 #### Skills: 
 - Game Engines: Unreal Engine 4, Unreal Engine 5, Unity, Game Maker
