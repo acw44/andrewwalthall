@@ -5,6 +5,8 @@
 andrew.walthall@me.com 
 
 ## Projects
+This portfolio is a WIP!
+
 ### Midnight Wave
 Kickstarter, Action Combat Demo
 
@@ -14,26 +16,26 @@ Kickstarter, Action Combat Demo
 
 [Midnight Wave Character Creator](https://andrew-double-u.itch.io/midnight-wave-character-creator)
 
-Create a button that links to a project breakdown.
+TODO: Create a button that links to a project breakdown.
 
 ### Monster Eater
 Full Sail Runway
 
 ![Monster Eater Demo](docs/assets/images/monster_eater_demo.png) 
 
-Create a button that links to a project breakdown.
+TODO: Create a button that links to a project breakdown.
 
 ### Sunlit
 
 ![Sunlit Demo](docs/assets/images/sunlit_demo.gif)
 
-Create a button that links to a project breakdown.
+TODO: Create a button that links to a project breakdown.
 
 ### Up To Speed
 
 ![Up To Speed Demo](docs/assets/images/up_to_speed_demo.gif)
 
-Create a button that links to a project breakdown.
+TODO: Create a button that links to a project breakdown.
 
 #### Skills: 
 - Game Engines: Unreal Engine 4, Unreal Engine 5, Unity, Game Maker
