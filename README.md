@@ -37,6 +37,9 @@ TODO: Create a button that links to a project breakdown.
 
 TODO: Create a button that links to a project breakdown.
 
+### WIP
+TODO: Add all my other projects.
+
 #### Skills: 
 - Game Engines: Unreal Engine 4, Unreal Engine 5, Unity, Game Maker
 - Languages: C++, Java, Typescript, Blueprint
@@ -47,8 +50,4 @@ TODO: Create a button that links to a project breakdown.
 - B.S., Game Design | Full Sail University (_May 2022_)
 - B.S., Computer Science | University of West Florida (_In Progress_)
 
-## Professional Experience
-**Project Runway (June 2024 - August 2024)**
-- HUD Design
-- Level Design
-- Programming
+## TODO: Resume, experience, etc.
